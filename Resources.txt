@@ -1,0 +1,10 @@
+https://www.youtube.com/watch?v=8hncUHmgQ5k
+http://jsfiddle.net/Xw29r/15/
+https://github.com/FatihErtugral/pure-javascript-snake-game
+https://stackoverflow.com/questions/1034621/get-the-current-url-with-javascript
+http://www.mendoweb.be/blog/javascript-random-element-position/
+https://www.youtube.com/watch?v=Ipa58NVGs_c
+https://stackoverflow.com/questions/33731952/run-a-js-file-with-chrome-extension
+https://stackoverflow.com/questions/19199956/chrome-extension-is-not-defined-error
+https://www.youtube.com/watch?v=AQN1CWjHDzg
+https://stackoverflow.com/questions/17535154/google-chrome-extension-background-script
